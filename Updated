@@ -1,3 +1,6 @@
 create the store
 add the total coins
 PLEASE NOTICE THAT there is a bug in void rendercoins() function
+
+
+2022/7/9 add new counting mode on wormzone, probably no bug in here
