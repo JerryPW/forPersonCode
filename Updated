@@ -7,3 +7,7 @@ PLEASE NOTICE THAT there is a bug in void rendercoins() function
 2022/7/9 add new counting mode on wormzone, probably no bug in here
 oops, i remember that the 1 second in this mode probably isn't the exactly 1 second in real counter, (you will figure out why when you see the code)
 so this maybe a point needed improvment
+
+
+2022//7/10 add backgroundmusic to the wormzone, probably no bug in here
+i assume this is the last changes in this text for Tuesday is the ddl
